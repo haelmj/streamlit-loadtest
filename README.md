@@ -6,8 +6,6 @@ Test capacity: 100 users
 
 We'll be testing the web applications ability to handle concurrent requests including submitting results.
 
-## Action Plan
+## Status
 
-- [ ] Open web application concurrently for 50 users.
-    - Increase user count as needed
-- [ ] Make concurrent text field writes to the webdrivers and submit
+-- all tests successful
